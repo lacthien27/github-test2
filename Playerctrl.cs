@@ -14,8 +14,6 @@ public class Playerctrl : MonoBehaviour
       Playerctrl.instance =this;
      this.damagereceiver = GetComponent<Damagereceiver>();
     this.playerstatus = GetComponent<Playerstatus>();
-       //  ngno lành 
-
-       //???kj
+       
    }
 }
