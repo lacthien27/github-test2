@@ -15,5 +15,7 @@ public class Playerctrl : MonoBehaviour
      this.damagereceiver = GetComponent<Damagereceiver>();
     this.playerstatus = GetComponent<Playerstatus>();
        //  ngno lành 
+
+       //???kj
    }
 }
